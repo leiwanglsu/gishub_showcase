@@ -1,0 +1,15 @@
+# Public showcase repo
+
+# No operational artifacts
+/data/
+/reports/
+/src/
+/web/
+/ios-app/
+/ElevXCAN/
+/node_modules/
+/dist/
+
+# Env and logs
+.env
+*.log
